@@ -1,0 +1,4 @@
+baseURL = 'https://simseslab.github.io/'
+languageCode = 'en-us'
+title = 'Simse´s Lab'
+theme = 'holy'

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Simse´s Lab</title>
+    <link>https://simseslab.github.io/posts/</link>
+    <description>Recent content in Posts on Simse´s Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Mar 2024 15:49:47 +0100</lastBuildDate>
+    <atom:link href="https://simseslab.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting up a Homepage for my HomeLab on my personal NixOS machine</title>
+      <link>https://simseslab.github.io/posts/homepage-nixos/homepage-nixos/</link>
+      <pubDate>Fri, 22 Mar 2024 15:49:47 +0100</pubDate>
+      <guid>https://simseslab.github.io/posts/homepage-nixos/homepage-nixos/</guid>
+      <description>What is this Homepage you speak of? When homelab&amp;rsquo;ing, you often end up with a bunch of different selfhosted(info) services and URLs you need to keep track of and visit repeatedly. Using bookmarks or shortcuts to access all of your stuff is fine, but can end up becoming a bit inconvenient as your homelab grows. Using a nice front for accessing your services, like Heimdall or Homepage, can be really nice to quickly navigate to where you want to go, with big visible icons instead of plain text labels, or small unrecognizable icons.</description>
+    </item>
+  </channel>
+</rss>
